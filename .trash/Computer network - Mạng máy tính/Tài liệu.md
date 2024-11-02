@@ -1,0 +1,1 @@
+Document: [link](https://ptiteduvn-my.sharepoint.com/personal/thuyntt_ptit_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthuyntt%5Fptit%5Fedu%5Fvn%2FDocuments%2FShare%20t%C3%A0i%20li%E1%BB%87u%20b%C3%A0i%20gi%E1%BA%A3ng%2FM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh&ga=1)

@@ -1,0 +1,51 @@
+﻿#tab-hot-story > ul { 
+    border-bottom: 1px solid #c0c0c0; 
+    margin-bottom: 10px;
+} 
+#tab-hot-story > ul > li { 
+    background: transparent; 
+    display: inline-block;
+    border: none; 
+    margin-bottom: -1px;
+} 
+#tab-hot-story > ul > li.active { 
+    background: transparent url(/Content/themes/base/images/uiTabsArrow.png) no-repeat bottom center; 
+    border: none; 
+} 
+#tab-hot-story > ul > li > a { 
+    color: #c0c0c0; 
+    font-weight: bold;
+    display: inline-block;
+    padding: 3px 8px 8px 7px;
+    outline: none;
+    text-decoration:none;
+} 
+#tab-hot-story > ul > li.active > a { 
+    color: #459e00; 
+}
+#tab-hot-story > div > p
+{
+    padding-bottom: 0px;margin:0;
+}
+    #tab-hot-story > div > p > span.fl-r
+    {
+        margin-top: 3px;
+    }
+    #tab-hot-story > div > p > span:first-child
+    {
+        width: 200px;
+        display: inline-block;        
+    }
+    #tab-hot-story > div > p > span:first-child a
+    {   
+        color: #00f;
+        font-size: 12px;
+    }
+        #tab-hot-story > div > p > span:first-child a:hover
+        {
+            color: red;
+        }
+    #tab-hot-story > div > p:last-child
+    {
+        padding-bottom: 0;
+    }

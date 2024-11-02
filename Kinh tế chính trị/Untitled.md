@@ -1,0 +1,83 @@
+- Chương 1:
+	- Sự ra đời thuật ngữ kinh tế chính trị 1615
+	- Sự hình thành, phát triển môn học
+	- Vai trò của 
+	- Giai đoạn hình thành, phát triển bổ sung 
+- Chương 2:
+	- Sản xuất hàng hóa và 2 điều kiện ra đời của sxhh
+	- Phạm trù hàng hóa 
+		- Khái niệm
+		- 2 thuộc tính
+			- Giá trị (hao phí lao động xã )
+			- Giá trị sử dụng (công dụng)
+	- Tính 2 mặt của lao động sx hh
+		- Cụ thể: nghề cụ thể 
+		- Trừu tượng: gạt bỏ cụ thể -> còn lại điểm chung
+		-> 2 mặt của quá trình lao động 
+	 - Lượng giá trị của hàng hóa và các nhân tố ảnh hưởng:
+		 - KN: lượng hao phí lao động xã hội
+		 - Các nhân tố:
+			 - Năng suất 
+			 - Cường độ 
+			 - Tính phức tạp của lao động 
+	- Tiền tệ:
+		- Nguồn gốc: 4 hình thái giá trị 
+			- Trao đổi giản đơn
+			- Mở rộng
+			- Chung
+			- Hình thái tiền 
+		- Bản chất của tiền tệ: vật ngang giá chung
+		- 5 chức năng của tiền tệ:
+			- Thước đo giá trị
+			- Phương tiện lưu thông
+			- Phương tiện thanh toán 
+			- Phương tiện cất trữ
+			- Tiền tệ thế giới
+	- Dịch vụ và các hàng hóa đặc biệt
+		- Dịch vụ:hàng hóa phi vật thể 
+		- Các loại hàng hóa đặc biệt: giấy sử dụng đất 
+	- Kinh tế thị trường 
+		- Khái niệm: kinh tế hàng hóa ptr -> mọi qh được thực hiện thông qua thị trường 
+		- ưu thế và khuyết tật của kte thị trường:
+			- Cạnh tranh không lành mạnh 
+			- Bla bla 
+			- Kích thích mọi tiềm năng của kte
+	- Vai trò của 4 chủ thể tham gia thị trường:
+		- Người sx
+		- Người tiêu dùng
+		- Các chủ thể trung gian
+		- Nhà nước
+- Chương 3:
+	- Nguồn gốc và bản chất giá trị thặng dư
+		- Nguồn gốc:Sức lao động của công nhân 
+		- Bản chất: phần lao động không công của người công nhân làm thuê 
+		- 1 số phạm trù quan trọng: 
+			- Tư bản bất biến:
+			- Tư bản khả biến
+			- Tỉ suất gttd m', khối lượng giá trị thặng dư M, tư bản cố định/lưu động
+	- 2 phương pháp sx giá trị thặng dư
+		- Giá trị thặng dư tuyệt đối
+		- Giá trị thặng dư tương đối
+	- Tích lũy tư bản:
+		- Bản chất và nguồn gốc của tích lũy: lấy 1 phần gttd để phụ thêm vào quy mô của năm sau 
+		- Nhân tố ảnh hưởng: 
+		- 3 hệ quả của tích lũy
+	- Các hình thức biểu hiện của giá trị thặng dư
+		- Chi phí sx k
+		- Lợi nhuận p, tỉ suất lợi nhuận p', địa tô ...
+- Chương 4:
+	- Mqh giữa cạnh tranh và độc quyền
+	- Bản chất và các hình thức của độc quyền tư bản
+		- Bản chất: liên minh của nhiều tư bản 
+	- 5 đặc điểm của chủ nghĩa tư bản độc quyền
+	- Bản chất và các hình thức biểu hiện của tư bản độc quyền nhà nước:
+		- Kết hợp giữa liên minh và nhà nước
+	- Thành tựu, hạn chế và giới hạn lịch sử của chủ nghĩa tư bản
+- Chương 5:
+	- Bản chất nền KTTT định hướng XHCN ở VN
+	- 5 đặc trung của KTTT định hướng XHCN
+	- Hoàn thiện thể chế KTTT định hướng XHCN 
+	- Bản chất, vai trò, biểu hiện và các mqh lợi ích
+- Chương 6
+	- đặc điểm 4 cuộc CMCN
+	- Nd 
